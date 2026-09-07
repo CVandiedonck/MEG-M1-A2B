@@ -40,4 +40,5 @@ R -e "BiocManager::install('DESeq2')"
 R -e "BiocManager::install('org.Mm.eg.db')"
 R -e "BiocManager::install('clusterProfiler')"
 R -e "BiocManager::install('SummarizedExperiment')"
+R -e "BiocManager::install('limma')"
 
